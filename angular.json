@@ -28,9 +28,12 @@
               "src/_redirects"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/github-activity-0.1.5.min.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/js/github-activity-0.1.5.min.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
