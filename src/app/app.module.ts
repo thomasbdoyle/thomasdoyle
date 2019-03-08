@@ -14,8 +14,8 @@ import { AppComponent } from './app.component';
 @NgModule({
   declarations: [AppComponent],
   imports: [
-    AngularFireModule.initializeApp(environment.firebase),
-    AngularFirestoreModule,
+    // AngularFireModule.initializeApp(environment.firebase),
+    // AngularFirestoreModule,
     BrowserModule,
     BrowserAnimationsModule,
     AppRoutingModule,
